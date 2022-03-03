@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_frameworks = 'NimbblCheckoutSDK.framework'
   spec.public_header_files = "NimbblCheckoutSDK.framework/Headers/*.h"
   spec.source_files = "NimbblCheckoutSDK.framework/Headers/*.h"
-  spec.dependency 'Analytics'
+  #spec.dependency 'Analytics'
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   spec.documentation_url = 'https://docs.nimbbl.tech/#/ios-sdk'
