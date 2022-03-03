@@ -2,7 +2,7 @@
 //  NimbblCheckoutSDK.h
 //  NimbblCheckoutSDK
 //
-//  Created by Stany on 08/04/21.
+//  Created by Stany on 18/08/21.
 //
 
 #import <Foundation/Foundation.h>
@@ -16,4 +16,3 @@ FOUNDATION_EXPORT const unsigned char NimbblCheckoutSDKVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <NimbblCheckoutSDK/PublicHeader.h>
 
 
-#import <NimbblCheckoutSDK/NimbblCheckoutViewController.h>
