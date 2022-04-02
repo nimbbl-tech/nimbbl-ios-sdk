@@ -215,7 +215,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 SWIFT_CLASS("_TtC17NimbblCheckoutSDK14NimbblCheckout")
 @interface NimbblCheckout : NSObject
 @property (nonatomic) BOOL enableUATEnvironment;
-- (nonnull instancetype)initWithAccessKey:(NSString * _Nonnull)accessKey delegate:(id <NimbblCheckoutDelegate> _Nonnull)delegate OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithAccessKey:(NSString * _Nonnull)accessKey serviceURL:(NSString * _Nonnull)serviceURL paymentURL:(NSString * _Nonnull)paymentURL delegate:(id <NimbblCheckoutDelegate> _Nonnull)delegate OBJC_DESIGNATED_INITIALIZER;
 - (void)showWithOptions:(NSDictionary<NSString *, id> * _Nonnull)options displayController:(UIViewController * _Nonnull)displayController;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");

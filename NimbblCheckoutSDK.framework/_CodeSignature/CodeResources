@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/NimbblCheckoutSDK-Swift.h</key>
 		<data>
-		M5RdlU8WjZaov2JVu9vuAxTMuqk=
+		o0bFsUlvTA+fP40ddNH4uy3JV84=
 		</data>
 		<key>Headers/NimbblCheckoutSDK.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/NimbblCheckoutSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		OTV/5XgDAOv5gmCX3qSOfe96RRw=
+		+q3zPpj4yACrq5HHRoNeaSRpTnM=
 		</data>
 		<key>Modules/NimbblCheckoutSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		OTV/5XgDAOv5gmCX3qSOfe96RRw=
+		+q3zPpj4yACrq5HHRoNeaSRpTnM=
 		</data>
 		<key>Modules/NimbblCheckoutSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/NimbblCheckoutSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		JFfgSqOA5XKFQVuLnzLZ1n6SyWs=
+		6PG/AochfuTiCSph2MYTyeuaM6c=
 		</data>
 		<key>Modules/NimbblCheckoutSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		W1NAd11Hf6tGySXd3Ppe5Oyuqtw=
+		Io/QAfAlbCW6DlmbEE0ZEGbcD9I=
 		</data>
 		<key>Modules/NimbblCheckoutSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/NimbblCheckoutSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		JFfgSqOA5XKFQVuLnzLZ1n6SyWs=
+		6PG/AochfuTiCSph2MYTyeuaM6c=
 		</data>
 		<key>Modules/NimbblCheckoutSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		W1NAd11Hf6tGySXd3Ppe5Oyuqtw=
+		Io/QAfAlbCW6DlmbEE0ZEGbcD9I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -59,7 +59,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ge8nesAdQG31t2JrutTKbgxbNWlMcyJo9JTJCxA/UZQ=
+			K51EWMeuWvWhVUEdwFob6aRlEGvjWNzbNNb17IlhaHk=
 			</data>
 		</dict>
 		<key>Headers/NimbblCheckoutSDK.h</key>
@@ -73,14 +73,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aVbep8+JEfcVAEcOW9iBhV2s1SFhTFrPHTIR8pf3wEA=
+			GEVyUMg2EXxWWqQHSI5MKcUJBITK34Ke+W3w5W02MFQ=
 			</data>
 		</dict>
 		<key>Modules/NimbblCheckoutSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aVbep8+JEfcVAEcOW9iBhV2s1SFhTFrPHTIR8pf3wEA=
+			GEVyUMg2EXxWWqQHSI5MKcUJBITK34Ke+W3w5W02MFQ=
 			</data>
 		</dict>
 		<key>Modules/NimbblCheckoutSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -94,14 +94,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kRnTVLqQouS48XM3AW8xLaKUps1k1zoMqFLGwjfRKV0=
+			qBaXaM6xcLfc7gdHnj9GpJCHZsdyk6cOphtA08eC/iQ=
 			</data>
 		</dict>
 		<key>Modules/NimbblCheckoutSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rM5ArVrfehliek6q718CdTnFXhoR94FJzq1OCxOLPpY=
+			YGtcMgvFdVweVFtbcxRMIQ3nc8nkQzYCGvmAxA6r4GA=
 			</data>
 		</dict>
 		<key>Modules/NimbblCheckoutSDK.swiftmodule/arm64.swiftdoc</key>
@@ -115,14 +115,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kRnTVLqQouS48XM3AW8xLaKUps1k1zoMqFLGwjfRKV0=
+			qBaXaM6xcLfc7gdHnj9GpJCHZsdyk6cOphtA08eC/iQ=
 			</data>
 		</dict>
 		<key>Modules/NimbblCheckoutSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rM5ArVrfehliek6q718CdTnFXhoR94FJzq1OCxOLPpY=
+			YGtcMgvFdVweVFtbcxRMIQ3nc8nkQzYCGvmAxA6r4GA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

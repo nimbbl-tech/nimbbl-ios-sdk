@@ -16,7 +16,7 @@ extension Swift.String : Swift.Error {
 }
 @objc open class NimbblCheckout : ObjectiveC.NSObject {
   @objc public var enableUATEnvironment: Swift.Bool
-  @objc public init(accessKey: Swift.String, delegate: NimbblCheckoutSDK.NimbblCheckoutDelegate)
+  @objc public init(accessKey: Swift.String, serviceURL: Swift.String, paymentURL: Swift.String, delegate: NimbblCheckoutSDK.NimbblCheckoutDelegate)
   @objc public func show(options: [Swift.String : Any], displayController: UIKit.UIViewController)
   @objc deinit
 }
